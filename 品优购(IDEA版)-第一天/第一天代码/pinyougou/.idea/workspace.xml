@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="71dfc763-3c56-40fd-af24-d9a32dfa83e5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pinyougou/pinyougou-common/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pinyougou/pinyougou-dao/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pinyougou/pinyougou-dao/src/main/java/com/pinyougou/mapper/BrandMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pinyougou/pinyougou-dao/src/main/resources/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pinyougou/pinyougou-dao/src/main/resources/mapper/BrandMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pinyougou/pinyougou-dao/src/main/resources/mybatis/mybatis-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pinyougou/pinyougou-dao/src/main/resources/properties/db.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pinyougou/pinyougou-dao/src/main/resources/spring/applicationContext-dao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pinyougou/pinyougou-manage-web/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pinyougou/pinyougou-manage-web/src/main/java/com/pinyougou/manage/controller/BrandController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pinyougou/pinyougou-manage-web/src/main/resources/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pinyougou/pinyougou-manage-web/src/main/resources/spring/springmvc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pinyougou/pinyougou-manage-web/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pinyougou/pinyougou-pojo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pinyougou/pinyougou-pojo/src/main/java/com/pinyougou/pojo/TbAddress.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pinyougou/pinyougou-pojo/src/main/java/com/pinyougou/pojo/TbAddressExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pinyougou/pinyougou-pojo/src/main/java/com/pinyougou/pojo/TbAreas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pinyougou/pinyougou-pojo/src/main/java/com/pinyougou/pojo/TbAreasExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pinyougou/pinyougou-pojo/src/main/java/com/pinyougou/pojo/TbBrand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pinyougou/pinyougou-pojo/src/main/java/com/pinyougou/pojo/TbBrandExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pinyougou/pinyougou-pojo/src/main/java/com/pinyougou/pojo/TbCities.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pinyougou/pinyougou-pojo/src/main/java/com/pinyougou/pojo/TbCitiesExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pinyougou/pinyougou-pojo/src/main/java/com/pinyougou/pojo/TbContent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pinyougou/pinyougou-pojo/src/main/java/com/pinyougou/pojo/TbContentCategory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pinyougou/pinyougou-pojo/src/main/java/com/pinyougou/pojo/TbContentCategoryExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pinyougou/pinyougou-pojo/src/main/java/com/pinyougou/pojo/TbContentExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pinyougou/pinyougou-pojo/src/main/java/com/pinyougou/pojo/TbFreightTemplate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pinyougou/pinyougou-pojo/src/main/java/com/pinyougou/pojo/TbFreightTemplateExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pinyougou/pinyougou-pojo/src/main/java/com/pinyougou/pojo/TbGoods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pinyougou/pinyougou-pojo/src/main/java/com/pinyougou/pojo/TbGoodsDesc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pinyougou/pinyougou-pojo/src/main/java/com/pinyougou/pojo/TbGoodsDescExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pinyougou/pinyougou-pojo/src/main/java/com/pinyougou/pojo/TbGoodsExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pinyougou/pinyougou-pojo/src/main/java/com/pinyougou/pojo/TbItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pinyougou/pinyougou-pojo/src/main/java/com/pinyougou/pojo/TbItemCat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pinyougou/pinyougou-pojo/src/main/java/com/pinyougou/pojo/TbItemCatExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pinyougou/pinyougou-pojo/src/main/java/com/pinyougou/pojo/TbItemExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pinyougou/pinyougou-pojo/src/main/java/com/pinyougou/pojo/TbOrder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pinyougou/pinyougou-pojo/src/main/java/com/pinyougou/pojo/TbOrderExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pinyougou/pinyougou-pojo/src/main/java/com/pinyougou/pojo/TbOrderItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pinyougou/pinyougou-pojo/src/main/java/com/pinyougou/pojo/TbOrderItemExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pinyougou/pinyougou-pojo/src/main/java/com/pinyougou/pojo/TbPayLog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pinyougou/pinyougou-pojo/src/main/java/com/pinyougou/pojo/TbPayLogExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pinyougou/pinyougou-pojo/src/main/java/com/pinyougou/pojo/TbProvinces.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pinyougou/pinyougou-pojo/src/main/java/com/pinyougou/pojo/TbProvincesExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pinyougou/pinyougou-pojo/src/main/java/com/pinyougou/pojo/TbSeller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pinyougou/pinyougou-pojo/src/main/java/com/pinyougou/pojo/TbSellerExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pinyougou/pinyougou-pojo/src/main/java/com/pinyougou/pojo/TbSpecification.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pinyougou/pinyougou-pojo/src/main/java/com/pinyougou/pojo/TbSpecificationExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pinyougou/pinyougou-pojo/src/main/java/com/pinyougou/pojo/TbSpecificationOption.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pinyougou/pinyougou-pojo/src/main/java/com/pinyougou/pojo/TbSpecificationOptionExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pinyougou/pinyougou-pojo/src/main/java/com/pinyougou/pojo/TbTypeTemplate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pinyougou/pinyougou-pojo/src/main/java/com/pinyougou/pojo/TbTypeTemplateExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pinyougou/pinyougou-pojo/src/main/java/com/pinyougou/pojo/TbUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pinyougou/pinyougou-pojo/src/main/java/com/pinyougou/pojo/TbUserExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-interface/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-interface/src/main/java/com/pinyougou/sellergoods/service/BrandService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/src/main/java/com/pinyougou/sellergoods/service/impl/BrandServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/src/main/resources/spring/applicationContext service.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pinyougou/pinyougou-sellergoods/pinyougou-sellergoods-service/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pinyougou/pinyougou-sellergoods/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pinyougou/pom.xml" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1T4GwFURhTg1yAvvoCZDitaZcGG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.scopes" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71dfc763-3c56-40fd-af24-d9a32dfa83e5" name="Default Changelist" comment="" />
+      <created>1572712191416</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572712191416</updated>
+      <workItem from="1572712196829" duration="3307000" />
+      <workItem from="1572969136578" duration="10000" />
+      <workItem from="1572969228682" duration="75000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
